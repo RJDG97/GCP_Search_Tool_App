@@ -1,0 +1,10 @@
+typing
+requests
+
+google-api-core
+google-cloud-aiplatform
+google-cloud-enterpriseknowledgegraph
+google-cloud-discoveryengine
+
+Flask
+gunicorn
